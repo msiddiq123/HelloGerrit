@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "4f34fe9d_a5bebc4c",
+        "filename": "src/com/devops/gerrithub/GerritHubTest.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1012312
+      },
+      "writtenOn": "2017-09-11T11:55:21Z",
+      "side": 1,
+      "message": "Changes Approved",
+      "range": {
+        "startLine": 7,
+        "startChar": 0,
+        "endLine": 7,
+        "endChar": 2
+      },
+      "revId": "00f6d4930388e3c7a75d49bf39ba3377e64edc8e",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
