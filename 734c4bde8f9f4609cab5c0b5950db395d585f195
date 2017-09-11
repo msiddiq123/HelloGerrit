@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "31a678f1_e58da6e2",
+        "filename": "src/com/devops/gerrithub/GerritHubTest.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1012312
+      },
+      "writtenOn": "2017-09-11T12:19:13Z",
+      "side": 1,
+      "message": "Test-2 looks Ok",
+      "range": {
+        "startLine": 7,
+        "startChar": 0,
+        "endLine": 7,
+        "endChar": 2
+      },
+      "revId": "734c4bde8f9f4609cab5c0b5950db395d585f195",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
