@@ -22,6 +22,29 @@
       "revId": "00f6d4930388e3c7a75d49bf39ba3377e64edc8e",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3cbbc020_73485387",
+        "filename": "src/com/devops/gerrithub/GerritHubTest.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1012312
+      },
+      "writtenOn": "2017-09-11T12:07:32Z",
+      "side": 1,
+      "message": "Looks good",
+      "range": {
+        "startLine": 7,
+        "startChar": 0,
+        "endLine": 7,
+        "endChar": 2
+      },
+      "revId": "00f6d4930388e3c7a75d49bf39ba3377e64edc8e",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
     }
   ]
 }
