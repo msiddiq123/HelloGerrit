@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "34a4fec9_251a2f46",
+        "filename": "src/com/devops/gerrithub/GerritHubTest.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1012312
+      },
+      "writtenOn": "2017-09-11T13:11:31Z",
+      "side": 1,
+      "message": "changed Test to Testing",
+      "range": {
+        "startLine": 7,
+        "startChar": 0,
+        "endLine": 7,
+        "endChar": 2
+      },
+      "revId": "8f451b419ef2b11f16b45e7e7b0ab617b529ee4b",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
